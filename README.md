@@ -17,13 +17,13 @@ Un clasico de la infancia para aprender a programar con python.
 ## Configuración del entorno:
 <ol>
 <li>Clonar el repositorio en tu escritorio.</li>
-```sh
+~~~
    git clone https://github.com/FernandoNoguera/Space_Invaders.git
-   ```
+~~~
 <li>Instalas paquetes.</li>
- ```sh
+ ~~~
     pip install -r requirements.txt
-   ```
+ ~~~
    nota: Asegúrate de estar conectado a Internet.
 <li>Has doble-click en el archivo juego.py para iniciar el juego.</li>
 </ol>
