@@ -13,17 +13,17 @@ Un clasico de la infancia para aprender a programar con python.
 <li>Interprete de python</li>
 <li>Teclado (para jugar)</li>
 </ol>
-<br>
+
 ## Configuración del entorno:
 <ol>
 <li>Clonar el repositorio en tu escritorio.</li>
-~~~
-   git clone https://github.com/FernandoNoguera/Space_Invaders.git
-~~~
+
+   `git clone https://github.com/FernandoNoguera/Space_Invaders.git`
+
 <li>Instalas paquetes.</li>
- ~~~
-    pip install -r requirements.txt
- ~~~
+
+   ` pip install -r requirements.txt`
+
    nota: Asegúrate de estar conectado a Internet.
 <li>Has doble-click en el archivo juego.py para iniciar el juego.</li>
 </ol>
